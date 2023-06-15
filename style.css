@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: rgb(87, 87, 87);
+}
+.top{
+    display: flex;
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(5,7,8);
+    justify-content: space-around;
+}
+.middle{
+    display: flex;
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(25,72,148);
+    justify-content: space-around;
+
+}
+.bottom{
+    display: flex;
+    padding: 25px;
+    margin: 10px;
+    justify-content: space-around;
+
+}
+img{
+    height: 200px;
+    aspect-ratio: 1;
+}
